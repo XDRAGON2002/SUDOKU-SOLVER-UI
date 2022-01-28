@@ -1,0 +1,15 @@
+* {
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+#container {
+    padding-left: auto;
+}
