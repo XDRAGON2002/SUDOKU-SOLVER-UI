@@ -1,4 +1,4 @@
-var socket = io("http://localhost:5000")
+var socket = io("https://sudoku-solver-back.herokuapp.com")
 
 socket.on("connect", function () {
     console.log("Connected")
